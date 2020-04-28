@@ -1,0 +1,19 @@
+Lista dwukierunkowa
+Autor:Patryk Karbownik
+
+Zadanie:
+
+Przygotować szablon klasy reprezentującej listę dwukierunkową. Rozmiar listy nie jest z góry
+określony. Należy zaimplementować operacje:
+1. Wstawianie elementu na koniec listy
+2. Wstawienie elementu na początek listy
+3. Zwracanie elementu znajdującego się na danej pozycji
+4. Usunięcie z listy elementu znajdującego się na danej pozycji
+5. Zwracanie elementu następnego w stosunku do elementu znajdującego się na danej pozycji
+(należy to zaimplementować w sposób typowy dla listy dwukierunkowej)
+6. Zwracanie elementu poprzedniego w stosunku do elementu znajdującego się na danej
+pozycji (zgodnie z powyższą uwagą)
+7. Sprawdzanie, czy lista jest pusta
+8. Podanie rozmiaru listy
+9. Porównywanie dwóch list
+10. Drukowanie listy
